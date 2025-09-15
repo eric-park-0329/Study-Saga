@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Study Saga</string>
+    <string name="start_study">Start Study</string>
+    <string name="stop_study">Stop</string>
+    <string name="start_break">Start Break</string>
+    <string name="resume_study">Resume</string>
+    <string name="gacha">Gacha</string>
+    <string name="inventory">Inventory</string>
+    <string name="boss_battle">Boss Battle</string>
+    <string name="settings">Settings</string>
+</resources>

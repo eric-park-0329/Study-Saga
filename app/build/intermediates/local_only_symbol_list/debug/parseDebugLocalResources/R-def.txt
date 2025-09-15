@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color md_theme_primary
+color md_theme_secondary
+color md_theme_tertiary
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string boss_battle
+string gacha
+string inventory
+string resume_study
+string settings
+string start_break
+string start_study
+string stop_study
+style Theme.StudySaga
