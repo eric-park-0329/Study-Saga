@@ -130,6 +130,7 @@ interface GachaDao {
 )
 @TypeConverters(Converters::class) // ⬅️ 추가
 abstract class StudyDb : RoomDatabase() {
+    //HAHA TEST
     abstract fun user(): UserDao
     abstract fun study(): StudyDao
     abstract fun item(): ItemDao
